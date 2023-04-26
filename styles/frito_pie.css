@@ -1,0 +1,26 @@
+img {
+    height: 350px;
+    width: 450px;
+}
+
+body {
+    text-align: center;
+    background-color: #4d654d;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.recipe {
+    text-align: left;
+}
+
+.red {
+    background-color: rgba(255, 25, 0, 0.711);
+}
+
+.orange {
+    background-color: orange;
+}
+
+h3 {
+    text-align: center;
+}
